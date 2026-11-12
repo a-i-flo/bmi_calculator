@@ -1,0 +1,7 @@
+# Virtual environment: each person creates their own with `uv venv`
+.venv/
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
